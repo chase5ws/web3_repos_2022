@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/Strings.sol";
 
-contract ASC_ver1.0 is ERC721Enumerable, Ownable {
+contract ASC_ver1 is ERC721Enumerable, Ownable {
     using Strings for uint256;
 
     bool public _isSaleActive = false;
