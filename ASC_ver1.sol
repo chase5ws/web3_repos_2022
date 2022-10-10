@@ -13,7 +13,7 @@ contract ASC_ver1 is ERC721Enumerable, Ownable {
     bool public _revealed = false;
 
     // Constants
-    uint256 public constant MAX_SUPPLY = 5;
+    uint256 public constant MAX_SUPPLY = 10;
     uint256 public mintPrice = 0 ether;
     uint256 public maxBalance = 1;
     uint256 public maxMint = 1;
@@ -25,7 +25,7 @@ contract ASC_ver1 is ERC721Enumerable, Ownable {
     mapping(uint256 => string) private _tokenURIs;
 
     constructor(string memory initBaseURI, string memory initNotRevealedUri)
-        ERC721("ether", "ETH")
+        ERC721("ASC", "TestArt")
     {
         setBaseURI(initBaseURI);
         setNotRevealedURI(initNotRevealedUri);
