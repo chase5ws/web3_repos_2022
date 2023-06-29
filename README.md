@@ -4,16 +4,13 @@ Discord：https://discord.gg/a4C57cVR6B
 
 Twitter推特：https://twitter.com/chase5ws_nft 
 
-Instagram：https://www.instagram.com/chase5ws_nft/
+Instagram：https://www.instagram.com/chase5ws
 
-下面是文章列表
----------------------------
-進入幣圈 : 
-https://chase5wss-organization.gitbook.io/xin-shou-jiao-yi-yuan-he-yao-shou-ce/bi-quan-xin-shou-asc
+->白皮書:
+https://chase5wss-organization.gitbook.io/asc/
 
-合約技術分析 : 
-https://chase5wss-organization.gitbook.io/xin-shou-jiao-yi-yuan-he-yao-shou-ce/
+->團隊資訊:
+https://docs.google.com/spreadsheets/d/1-TKy6d092VGKA1JySlnl5SDqMiq3Ik-UIIQvlOIQQDA/edit#gid=1925518904
 
-智能合約: 
-https://chase5wss-organization.gitbook.io/xin-shou-jiao-yi-yuan-he-yao-shou-ce/
-
+->技術文章:
+https://drive.google.com/drive/folders/1d41ZB-4biGFgDDLBFp-ouCW_45Xkv7s9?usp=share_link
