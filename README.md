@@ -6,6 +6,8 @@ Twitter推特：https://twitter.com/chase5ws_nft
 
 Instagram：https://www.instagram.com/chase5ws
 
+**ASC 資訊**
+---------------------------
 ->白皮書:
 https://chase5wss-organization.gitbook.io/asc/
 
