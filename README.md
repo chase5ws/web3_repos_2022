@@ -1,18 +1,9 @@
-**ASC 區塊鏈手冊**
----------------------------
-Discord：https://discord.gg/a4C57cVR6B 
+2024新版本專案:https://github.com/chase5ws/web3_repos_2024
 
-Twitter推特：https://twitter.com/chase5ws_nft 
+2022年做的專案了，包含3隻程式
 
-Instagram：https://www.instagram.com/chase5ws
+1】基礎智能合約:將token上傳到區塊鏈上
 
-**ASC 資訊**
----------------------------
-->白皮書:
-https://chase5wss-organization.gitbook.io/asc/
+2】NFT圖片生成:將圖片隨機排列成不同組合，並且將圖片元數據結合智能合約
 
-->團隊資訊:
-https://docs.google.com/spreadsheets/d/1-TKy6d092VGKA1JySlnl5SDqMiq3Ik-UIIQvlOIQQDA/edit#gid=1925518904
-
-->技術文章:
-https://drive.google.com/drive/folders/1d41ZB-4biGFgDDLBFp-ouCW_45Xkv7s9?usp=share_link
+3】基礎智能網站:將mint網站做出來，讓使用者可以直接透過website快速mint你做的nft
